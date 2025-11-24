@@ -1,4 +1,5 @@
 # GIF-Creation
 Coding gif in python
 
-C:\Users\carlb\OneDrive\Documents\Projects\GIF\GIF-Creation\nyan_cat\nyan-cat.gif
+
+![nyan-cat](https://github.com/user-attachments/assets/dd6601a4-92ca-4165-b9ad-d527c7efd316)
